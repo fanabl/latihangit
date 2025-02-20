@@ -1,0 +1,55 @@
+* [33mcommit 6570b22200fd50c6937c6a4c129b27207bbfe6df[m[33m ([m[1;32mc[m[33m)[m
+[31m|[m Author: fanabl <faiqinab@gmail.com>
+[31m|[m Date:   Thu Feb 20 07:56:04 2025 +0700
+[31m|[m 
+[31m|[m     update brancha.html
+[31m|[m   
+*   [33mcommit ccdcf728232395a5a60e9ed6838270e38a00db5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[32m|[m[33m\[m  Merge: 315e4b6 5f2d161
+[32m|[m [33m|[m Author: fanabl <faiqinab@gmail.com>
+[32m|[m [33m|[m Date:   Thu Feb 20 07:52:55 2025 +0700
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge branch 'b'
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 5f2d161fa89676a261680298dad0394e742effd6[m[33m ([m[1;32mb[m[33m)[m
+[32m|[m [33m|[m Author: fanabl <faiqinab@gmail.com>
+[32m|[m [33m|[m Date:   Thu Feb 20 07:48:38 2025 +0700
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     add branch b
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit 315e4b67c41abfdb1af65cc93eda35d92d9c9104[m
+[33m|[m[33m/[m  Author: fanabl <faiqinab@gmail.com>
+[33m|[m   Date:   Thu Feb 20 07:49:31 2025 +0700
+[33m|[m   
+[33m|[m       edit latihan2.html
+[33m|[m   
+*   [33mcommit 8cb963385f2dea7558a2be89f4e0108cf55c33a2[m
+[34m|[m[35m\[m  Merge: 26b3276 3e98977
+[34m|[m [35m|[m Author: fanabl <faiqinab@gmail.com>
+[34m|[m [35m|[m Date:   Thu Feb 20 07:44:58 2025 +0700
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Merge branch 'a'
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 3e98977d67bccced8e2723f24f9d66e947e71035[m
+[34m|[m [35m|[m Author: fanabl <faiqinab@gmail.com>
+[34m|[m [35m|[m Date:   Thu Feb 20 07:39:21 2025 +0700
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     add branc a
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 9e6a7718b555a6101eb27ad57515b4ec5dedd386[m
+[34m|[m [35m|[m Author: fanabl <faiqinab@gmail.com>
+[34m|[m [35m|[m Date:   Wed Feb 19 09:27:46 2025 +0700
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     add latihan 2.html
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 26b3276a192462e78bffb58842e2dac27d99084a[m
+[35m|[m[35m/[m  Author: fanabl <faiqinab@gmail.com>
+[35m|[m   Date:   Wed Feb 19 09:13:50 2025 +0700
+[35m|[m   
+[35m|[m       add latihan 2
+[35m|[m 
+* [33mcommit a451baa487aa1300fb4d13f6e727064976311232[m
+  Author: fanabl <faiqinab@gmail.com>
+  Date:   Wed Feb 19 09:00:31 2025 +0700
+  
+      commit 1
